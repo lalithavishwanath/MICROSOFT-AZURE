@@ -1,5 +1,6 @@
 
-# AdventureWorks Dataset Analysis
+# AdventureWorks Dataset Analysis:
+
 
 ## Introduction
 This repository showcases data visualization skills using **Microsoft Azure** to create interactive dashboards based on the **AdventureWorks dataset**. The analysis focuses on extracting meaningful insights from sales and product data.
@@ -43,13 +44,8 @@ Customer Demographics: Understanding purchase behavior across customer segments.
 Monthly Trends: Visualizing fluctuations in sales over time.
 
 Technologies Used
-Microsoft Azure: SQL Database, Query Editor, and Dashboarding Tools
-
-Power BI: Interactive data visualizations
-
-SQL: Data extraction and transformation
-
-Conclusion
+Microsoft Azure: SQL Database, Query Editor, and Dashboarding Tools.
+Conclusion:
 This project demonstrates strong data visualization expertise using Microsoft Azure to generate insights from the AdventureWorks dataset. The dashboards provide a clear view of trends, enabling data-driven decision-making.v
 
 
