@@ -32,5 +32,24 @@ ProductID	Product Name	Category	List Price
 981	Mountain-400-W Silver, 40	Mountain Bikes	769.49
 985	Mountain-500 Silver, 40	Mountain Bikes	564.99
 Data Visualization & Dashboard Insights
+Using Microsoft Azure, various dashboards have been created to visualize key insights, including:
+
+Sales Performance: Analyzing sales trends by product category.
+
+Price Distribution: Identifying pricing patterns across different product lines.
+
+Customer Demographics: Understanding purchase behavior across customer segments.
+
+Monthly Trends: Visualizing fluctuations in sales over time.
+
+Technologies Used
+Microsoft Azure: SQL Database, Query Editor, and Dashboarding Tools
+
+Power BI: Interactive data visualizations
+
+SQL: Data extraction and transformation
+
+Conclusion
+This project demonstrates strong data visualization expertise using Microsoft Azure to generate insights from the AdventureWorks dataset. The dashboards provide a clear view of trends, enabling data-driven decision-making.v
 
 
