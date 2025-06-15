@@ -1,6 +1,6 @@
 
 # AdventureWorks Dataset Analysis:
-
+![azure lab1](https://github.com/user-attachments/assets/26ca115a-0b5b-419f-b8d7-09f71b4a66e0)
 
 ## Introduction
 This repository showcases data visualization skills using **Microsoft Azure** to create interactive dashboards based on the **AdventureWorks dataset**. The analysis focuses on extracting meaningful insights from sales and product data.
