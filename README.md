@@ -32,11 +32,5 @@ ProductID	Product Name	Category	List Price
 981	Mountain-400-W Silver, 40	Mountain Bikes	769.49
 985	Mountain-500 Silver, 40	Mountain Bikes	564.99
 Data Visualization & Dashboard Insights
-SELECT p.ProductID, p.Name AS ProductName,
-       c.Name AS Category, p.ListPrice
-FROM SalesLT.Product AS p
-JOIN SalesLT.ProductCategory AS c
-ON p.ProductCategoryID = c.ProductCategoryID;
-Results
-Sample results extracted from the dataset:
+
 
